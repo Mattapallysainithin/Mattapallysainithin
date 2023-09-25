@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Deep Learning 
-- 🌱 I’m currently learning at VIT
+- 🌱 Graduate student at UNT
 - 👯 I’m looking to collaborate on Tensorflow
 - 💬 Ask me about Machine learning
 - 📫 How to reach me: mattapally.sainithin@gmail.com
